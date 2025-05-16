@@ -65,11 +65,13 @@ These insights can be used by TravelTide to implement a **personalized rewards p
 
 You can find the analysis notebooks and Tableau dashboard in this repository:
 
-- `notebooks/TravelTide_analysis.ipynb`
-- [Click here to view my dashboard on Tableau Public](https://public.tableau.com/app/profile/bianca.niemann/viz/TravelTide_17474146781030)
+- [🔗 Github Data Files](https://github.com/BiancaNiemann/TravelTide_Segmentation_and_Rewards_Analysis/tree/main/data)
+- [🔗 Github Documents Files Files](https://github.com/BiancaNiemann/TravelTide_Segmentation_and_Rewards_Analysis/tree/main/documents)
+- [🔗 Github Notebooks Files](https://github.com/BiancaNiemann/TravelTide_Segmentation_and_Rewards_Analysis/tree/main/notebooks)
+- [🔗 Presentation Recording](https://www.canva.com/design/DAGnU5ALj60/K5Gq-TxZ_1K88RZTow9UVA/view?utm_content=DAGnU5ALj60&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h68405af896)
 - [🔗 Tableau Public Profile](https://public.tableau.com/app/profile/bianca.niemann/viz/TravelTide_17474146781030/ClicksperSession)
 
-> *(Please update with actual paths or links when ready.)*
+
 
 ---
 
