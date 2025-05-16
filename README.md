@@ -66,7 +66,8 @@ These insights can be used by TravelTide to implement a **personalized rewards p
 You can find the analysis notebooks and Tableau dashboard in this repository:
 
 - `notebooks/TravelTide_analysis.ipynb`
-- [🔗 Tableau Public Profile]([https://public.tableau.com/app/profile/your_username](https://public.tableau.com/app/profile/bianca.niemann/viz/TravelTide_17474146781030/ClicksperSession))
+- [Click here to view my dashboard on Tableau Public](https://public.tableau.com/app/profile/bianca.niemann/viz/TravelTide_17474146781030)
+- [🔗 Tableau Public Profile](https://public.tableau.com/app/profile/bianca.niemann/viz/TravelTide_17474146781030/ClicksperSession)
 
 > *(Please update with actual paths or links when ready.)*
 
